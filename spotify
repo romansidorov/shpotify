@@ -35,7 +35,7 @@ fi
 source "${USER_CONFIG_FILE}";
 
 # Set the percent change in volume for vol up and vol down
-VOL_INCREMENT=10
+VOL_INCREMENT=5
 
 showAPIHelp() {
     echo;
